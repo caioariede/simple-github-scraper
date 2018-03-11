@@ -1,0 +1,8 @@
+*.sqlite
+*.egg-info
+.pytest_cache
+.eggs
+.coverage
+.tox
+dist
+build
